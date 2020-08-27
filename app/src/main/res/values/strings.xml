@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Two Activities</string>
+    <string name="main_send">Send</string>
+    <string name="second_replay">Replay</string>
+    <string name="main_log_message_1">Pressed main activity button</string>
+    <string name="detail_log_message_1">Pressed detail activity button</string>
+    <string name="main_send_message">Send a message to Matrix</string>
+    <string name="second_replay_message">Print here ansver from Matrix</string>
+    <string name="detail_header_text">Message from OUTSIDE</string>
+    <string name="detail_send_message">Send a message from Matrix</string>
+    <string name="detail_replay">Replay</string>
+    <string name="main_header_start">Attention!</string>
+    <string name="main_header_replay">They have heard You!</string>
+</resources>
